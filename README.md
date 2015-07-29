@@ -17,6 +17,6 @@ You can obtain the PGP armored signature for each file by appending .asc, e.g.,
 
 wget http://github.com/glennrp/libpng-releases/raw/master/lpngxyz.7z.asc
 
-If you want to access individual source files, go to the glennrp/libpng
-repository instead.
+If you want to access individual source files, go to the libpng repository at
+https://github.com/glennrp/libpng instead.
 
