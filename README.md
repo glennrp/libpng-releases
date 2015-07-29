@@ -5,6 +5,7 @@ for direct download via scripts containing "wget" or "curl" directives
 such as
 
 wget http://github.com/glennrp/libpng-releases/raw/master/libpng-x.y.z.tar.xz
+
 wget http://github.com/glennrp/libpng-releases/raw/master/lpngxyz.7z
 
 The *.tar.xz files contain source files with *nix-style line endings and
@@ -13,6 +14,7 @@ contain a "configure" script and associated files for building a Makefile.
 The *.7z files have DOS-style line endings and don't have "configure".
 
 You can obtain the PGP armored signature for each file by appending .asc, e.g.,
+
 wget http://github.com/glennrp/libpng-releases/raw/master/lpngxyz.7z.asc
 
 If you want to access individual source files, go to the glennrp/libpng
